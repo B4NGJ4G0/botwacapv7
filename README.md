@@ -78,6 +78,6 @@ you've just cloned!!
 
 
 ## Group
-* [`WhatsApp`]()
+* [`WhatsApp`](https://chat.whatsapp.com/HeVJELlnXNV4uF8aHDduRg)
 ### Donate
 * [`Saweria`](https://saweria.co/AmdBot)
